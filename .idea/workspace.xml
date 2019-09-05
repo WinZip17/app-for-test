@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c346b39-69a1-4cf7-a717-ea8d5b8dc9c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/css/App111.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/Article.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/Footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/Header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/LoginForm.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/SingInAC.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/SingInAC.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Article.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Article.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/LoginForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LoginForm.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pageSvg.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pageSvg.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pageSvgMobile.jsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/LoginForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/LoginForm.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/reducers/SingInReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/SingInReducer.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,8 +69,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="npm.npm start">
+  <component name="RunManager" selected="npm.build">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <configuration name="eject" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -101,6 +105,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.eject" />
       </list>
     </recent_temporary>
@@ -121,7 +126,7 @@
       <workItem from="1567504367562" duration="6711000" />
       <workItem from="1567528323848" duration="12037000" />
       <workItem from="1567569439470" duration="11494000" />
-      <workItem from="1567668873966" duration="16332000" />
+      <workItem from="1567668873966" duration="16736000" />
     </task>
     <servers />
   </component>
