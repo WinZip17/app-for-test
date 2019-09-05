@@ -1,0 +1,83 @@
+/*Article*/
+
+.articleBackground {
+    background-image: url("../media/004_1.png");
+}
+
+h1 {
+    color: white;
+    font-size: 20pt;
+}
+
+
+.cursorPointer {
+    cursor: pointer;
+}
+
+
+/*коррекция цветов кнопок */
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #F57F17;
+    border-color: #F57F17;
+}
+
+.btn-danger,
+.btn-danger:hover,
+.btn-danger:active,
+.btn-danger:visited,
+.btn-danger:focus {
+    background-color: #E91E63;
+    border-color: #E91E63;
+}
+
+.btn-success,
+.btn-success:hover,
+.btn-success:active,
+.btn-success:visited,
+.btn-success:focus {
+    background-color: #00CCB9;
+    border-color: #00CCB9;
+}
+
+.btn-warning,
+.btn-warning:hover,
+.btn-warning:active,
+.btn-warning:visited,
+.btn-warning:focus {
+    background-color: #7986CB;
+    border-color: #7986CB;
+    color: white;;
+}
+
+.btn-outline-dark,
+.btn-outline-dark:hover,
+.btn-outline-dark:active,
+.btn-outline-dark:visited,
+.btn-outline-dark:focus {
+    background-color: #00838F;
+    border-color: #00838F;
+    color: white;
+}
+
+.buttonWidth {
+    width: 300px !important;
+}
+
+.buttonImg {
+    width: 12px;
+}
+
+.buttonFontSize {
+    font-size: 8pt;
+}
+
+.textArticle {
+    font-size: 10pt;
+    font-family: Roboto, serif;
+    color: white;
+    margin-top: 10px;
+}

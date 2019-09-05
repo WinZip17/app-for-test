@@ -2,26 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c346b39-69a1-4cf7-a717-ea8d5b8dc9c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/actions/SingInAC.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Article.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/LoginForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pageSvg.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pageSvgMobile.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/SingInConst.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/ReduxStore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/SingInReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/App111.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/Article.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/Footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/LoginForm.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/SingInAC.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/SingInAC.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Article.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Article.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LoginForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LoginForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pageSvg.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pageSvg.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pageSvgMobile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/SingInReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/SingInReducer.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +40,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,15 +50,16 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Project\app-for-test\src\reducers" />
-      <recent name="C:\Project\app-for-test\src\css" />
-      <recent name="C:\Project\app-for-test\src\components" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Project\app-for-test\src\css" />
       <recent name="C:\Project\app-for-test\src\constants" />
       <recent name="C:\Project\app-for-test\src\actions" />
       <recent name="C:\Project\app-for-test\src\reducers" />
+      <recent name="C:\Project\app-for-test\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Project\app-for-test\src\reducers" />
+      <recent name="C:\Project\app-for-test\src\css" />
       <recent name="C:\Project\app-for-test\src\components" />
     </key>
   </component>
@@ -78,7 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="npm.eject">
+  <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -123,7 +120,8 @@
       <workItem from="1567501205119" duration="1194000" />
       <workItem from="1567504367562" duration="6711000" />
       <workItem from="1567528323848" duration="12037000" />
-      <workItem from="1567569439470" duration="11283000" />
+      <workItem from="1567569439470" duration="11494000" />
+      <workItem from="1567668873966" duration="16332000" />
     </task>
     <servers />
   </component>
@@ -147,9 +145,10 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/components/Article.jsx</url>
-          <line>31</line>
-          <option name="timeStamp" value="11" />
+          <url>file://$PROJECT_DIR$/src/components/LoginForm.jsx</url>
+          <line>2</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

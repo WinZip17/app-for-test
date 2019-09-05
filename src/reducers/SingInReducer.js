@@ -2,7 +2,7 @@ import {SET_LOGIN} from "../constants/SingInConst";
 
 
 let initialState = {
-    isLogin: false
+    isLogin: true
 };
 
 const SingIn = (state = initialState, action) => {

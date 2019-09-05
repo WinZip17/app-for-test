@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.coverApp {
+    background-image: url("../media/fon.png");
+    background-size: 100%;
+}
+.container-fluid {
+    max-width: 1250px;
+}
+
+/*Header*/
+
+.logo {
+    width: 200px;
+}
+
+/*Article*/
+
+.articleBackground {
+    background-image: url("../media/004_1.png");
+}
+
+h1 {
+    color: white;
+    font-size: 20pt;
+}
+
+
+.cursorPointer {
+    cursor: pointer;
+}
+
+
+/*коррекция цветов кнопок */
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #F57F17;
+    border-color: #F57F17;
+}
+
+.btn-danger,
+.btn-danger:hover,
+.btn-danger:active,
+.btn-danger:visited,
+.btn-danger:focus {
+    background-color: #E91E63;
+    border-color: #E91E63;
+}
+
+.btn-success,
+.btn-success:hover,
+.btn-success:active,
+.btn-success:visited,
+.btn-success:focus {
+    background-color: #00CCB9;
+    border-color: #00CCB9;
+}
+
+.btn-warning,
+.btn-warning:hover,
+.btn-warning:active,
+.btn-warning:visited,
+.btn-warning:focus {
+    background-color: #7986CB;
+    border-color: #7986CB;
+    color: white;;
+}
+
+.btn-outline-dark,
+.btn-outline-dark:hover,
+.btn-outline-dark:active,
+.btn-outline-dark:visited,
+.btn-outline-dark:focus {
+    background-color: #00838F;
+    border-color: #00838F;
+    color: white;
+}
+
+.buttonWidth {
+    width: 300px !important;
+}
+
+.buttonImg {
+    width: 12px;
+}
+
+.buttonFontSize {
+    font-size: 8pt;
+}
+
+.textArticle {
+    font-size: 10pt;
+    font-family: Roboto, serif;
+    color: white;
+    margin-top: 10px;
+}
+
+/*Login Form*/
+
+.close {
+    left: auto;
+}
+
+.loginFormSell {
+    position: fixed;
+    background-color: #000000;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 2;
+    opacity: 0.7;
+}
+
+
+
+.loginFormUrl{
+    font-size: 8pt;
+}
+
+.loginFormRememberMe {
+    font-size: 10pt;
+}
+
+.labelInput {
+    font-size: 8pt;
+    color: #0097A7;
+}
+
+.loginInputBackground {
+    background-color: white;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    width: 50%;
+}
+
+.loginImageBackground {
+    background-color: #e2e2e2;
+}
+
+.compLogin {
+    width: 250px;
+    height: 250px;
+    margin: auto;
+}
+.loginForm {
+    position: fixed;
+    left:50%;
+    margin-left:-25%;
+    top:10%;
+    background-color: white;
+    z-index: 101;
+    opacity: 1;
+    width: 780px;
+    height: 600px;
+}
+
+.closeButton {
+    top: 10px;
+    right: 10px;
+}
+@media (max-width: 1199.98px) {
+    .loginInputBackground {
+        padding: 10px;
+        width: 100%;
+    }
+    .loginForm {
+        width: 300px;
+        height: auto;
+    }
+}
+
+/*Footer*/
+
+.textFooter {
+    font-size: 8pt;
+    font-family: Roboto, serif;
+    color: white;
+}
+
+a {
+    color: #58E0FF;
+}
+
+.footerBackground {
+    background-color: #00838f;
+}
+
+/*Login Form*/
+.btn-outline-dark,
+.btn-outline-dark:hover,
+.btn-outline-dark:active,
+.btn-outline-dark:visited,
+.btn-outline-dark:focus {
+    background-color: #00838F;
+    border-color: #00838F;
+    color: white;
+}
+

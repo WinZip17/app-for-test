@@ -1,0 +1,16 @@
+
+/*Footer*/
+
+.textFooter {
+    font-size: 8pt;
+    font-family: Roboto, serif;
+    color: white;
+}
+
+a {
+    color: #58E0FF;
+}
+
+.footerBackground {
+    background-color: #00838f;
+}
